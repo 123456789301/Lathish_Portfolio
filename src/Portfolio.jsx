@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Mail, MapPin, Linkedin, Github } from 'lucide-react';
 
-const PROFILE_IMAGE = '/profile.svg'; // replace with your image path or URL (put file in /public)
+const PROFILE_IMAGE = '/Lathish_Profile.jpg'; // replace with your image path or URL (put file in /public)
 const RESUME_URL = '#'; // replace with link to resume PDF in /public (e.g. /resume.pdf)
 const GITHUB_URL = 'https://github.com/username'; // replace with your GitHub
 const LINKEDIN_URL = 'https://www.linkedin.com/in/lathish-r-852582282/';
