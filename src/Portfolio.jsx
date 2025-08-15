@@ -199,7 +199,7 @@ export default function Portfolio() {
         </section>
 
         <footer className="mt-12 text-center text-sm text-slate-500">
-          © {new Date().getFullYear()} Lathish R — Built with .NET &amp; React • Designed for recruiters &amp; teams
+          © {new Date().getFullYear()} Lathish R — Built with .NET & AI Integration
         </footer>
       </main>
     </div>
